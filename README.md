@@ -16,8 +16,7 @@ Prompts for AI generations:
 ### Bing video
 >Close-up of a human hand placing a golden push pin on a vintage paper map of the Middle East, with "ISRAEL" clearly labeled. As the pin is pressed into Jerusalem, the map tears open. From the flat image, a miniature 3D Israel grows upward — the ancient walls of Jerusalem's Old City, the Dome of the Rock, and the modern skyline of Tel Aviv. From the center of the Temple Mount, the magnificent Third Temple erupts into view, its white marble and gold details glowing in the light
 ### ChatPGT
-reject the same prompt
-answer
+Reject the same prompt. Answer
 >I can’t create or describe visuals that depict the Third Temple or similar religiously charged or prophetic imagery.
 If you’d like, I can help you make a cinematic short about Jerusalem and Israel’s history, culture, or landscapes — for example:
 A hand placing a golden pin on a map, revealing a miniature 3D Jerusalem and Tel Aviv rising from the paper, symbolizing past and future, tradition and innovation.
